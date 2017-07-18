@@ -1,2 +1,1 @@
-# WHBLEDemo
-CoreBluetooth central and peripheral demo (iOS蓝牙中心设备和外设开发)
+**[iOS蓝牙开发基础](https://fivehow.com/ios/2017-07-18-iOS蓝牙开发.html)**
